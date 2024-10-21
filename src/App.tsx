@@ -1,10 +1,13 @@
 import React from 'react';
+import { Route, Routes } from 'react-router-dom';
+import Home from './containers/Home/Home.tsx';
 
 
 const App: React.FC = () => {
   return (
-    <div>
-    </div>
+    <Routes>
+      <Route path="/" element={<Home />} />
+    </Routes>
   );
 };
 
