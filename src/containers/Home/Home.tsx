@@ -1,8 +1,8 @@
 const Home = () => {
   return (
     <div className="container mt-4">
-      <h1>Добро пожаловать!</h1>
-      <p>Это домашняя страница моего приложения.</p>
+      <h1>Welcome to my website</h1>
+      <p>This is my home page</p>
     </div>
   );
 };
