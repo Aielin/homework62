@@ -1,0 +1,9 @@
+.Home-bg{
+  background-image: url("https://images.unsplash.com/photo-1543359278-18e6c95a483c?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8bW91bnRhaW4lMjB3YWxscGFwZXJ8ZW58MHx8MHx8fDA%3D");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 100vh;
+  padding-top: 50px;
+  color: white;
+}

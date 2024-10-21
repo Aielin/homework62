@@ -1,0 +1,9 @@
+.portfolio-bg{
+  background-image: url("https://png.pngtree.com/background/20230526/original/pngtree-abstract-coding-network-picture-image_2746758.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 100vh;
+  padding-top: 50px;
+  color: white;
+}

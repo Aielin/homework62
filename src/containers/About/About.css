@@ -1,0 +1,9 @@
+.About-bg{
+  background-image: url('https://img.freepik.com/premium-photo/black-studio-room-background-black-cement-wall-interior-texture-display-products_322958-285.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  padding-top: 50px;
+  color: white;
+}

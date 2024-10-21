@@ -1,4 +1,5 @@
 import { NavLink } from 'react-router-dom';
+import './ToolBar.css';
 
 const ToolBar = () => {
   return (
@@ -8,6 +9,7 @@ const ToolBar = () => {
         <div className="navbar-nav">
           <NavLink to="/about" className="nav-link">About</NavLink>
           <NavLink to="/contacts" className="nav-link">Contacts</NavLink>
+          <NavLink to="/portfolio" className="nav-link">Portfolio</NavLink>
         </div>
       </div>
     </nav>
