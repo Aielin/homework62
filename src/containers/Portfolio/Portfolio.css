@@ -7,3 +7,10 @@
   padding-top: 50px;
   color: white;
 }
+
+.card{
+  background-color: rgba(251, 251, 251, 0.7) !important;
+  border-radius: 10px;
+  padding: 20px;
+  transition: background-color 0.3s;
+}
